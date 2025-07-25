@@ -1,0 +1,14 @@
+{
+  "name": "youtube-video-stats",
+  "version": "1.0.0",
+  "description": "A project to display live view counts, likes, and comments for YouTube videos.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
